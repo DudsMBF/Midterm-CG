@@ -12,5 +12,5 @@ Player.Update () (at Assets/Script/Player.cs:23) appeared for me when trying to 
 
 
 
-
+The idea for the sand shader was to use a simple texture shader and then use a part of the Fresnel shader(the view direction only) to change the position of the texture but I didn't have time to finish it.
 
